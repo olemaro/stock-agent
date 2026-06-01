@@ -1,0 +1,10 @@
+langgraph
+langchain
+langchain-anthropic
+pinecone
+yfinance
+pandas
+numpy
+anthropic
+mlflow
+python-dotenv

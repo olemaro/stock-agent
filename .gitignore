@@ -1,0 +1,7 @@
+*.csv
+__pycache__/
+.env
+*.pyc
+.chroma/
+mlruns/
+*.egg-info/
